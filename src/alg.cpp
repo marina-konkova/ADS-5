@@ -82,7 +82,7 @@ std::string infx2pstfx(std::string inf) {
   return work;
 }
 
-int eval(std::string pref) {
+
 int count(const int& a, const int& b, const int& oper) {
   switch (oper) {
     default:
